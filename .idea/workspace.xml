@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4933422a-3906-4a24-ba31-315906d9352a" name="变更" comment="Test 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Zxb &lt;1115644521@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NKOfLO5QkGNXNCjMD839ppT6GL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/IDEA/软件构造",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "c32ecba8f878605d0af7f3b4a7c7caab"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\RJ_WM\src\main\java\Zxb\Dto" />
+      <recent name="D:\IDEA\RJ_WM\src\main\java\Zxb\Entity" />
+      <recent name="D:\IDEA\RJ_WM\src\main\java\Zxb\Domain" />
+      <recent name="D:\IDEA\RJ_WM\src\main\java\Zxb\Controller" />
+      <recent name="D:\IDEA\RJ_WM\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Zxb" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Zxb.Controller" />
+      <recent name="Zxb.Service.Impl" />
+      <recent name="Zxb.Service" />
+      <recent name="Zxb.Mapper" />
+      <recent name="Zxb.Config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RjWmApplication">
+    <configuration name="MemoryManagerUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zxb.Test.Test2.MemoryManagerUI" />
+      <module name="RJ_WM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zxb.Test.Test2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zxb.Test.Test1.Test" />
+      <module name="RJ_WM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zxb.Test.Test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RjWmApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RJ_WM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zxb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zxb" />
+      <option name="MAIN_CLASS_NAME" value="Zxb.RjWmApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RjWmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="RJ_WM" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Zxb.RjWmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RjWmApplicationTests.contextLoads" />
+        <item itemvalue="应用程序.MemoryManagerUI" />
+        <item itemvalue="应用程序.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\11156\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4933422a-3906-4a24-ba31-315906d9352a" name="变更" comment="" />
+      <created>1679409413348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679409413348</updated>
+      <workItem from="1679409414722" duration="2490000" />
+      <workItem from="1681103766826" duration="10000" />
+      <workItem from="1681807223736" duration="7880000" />
+      <workItem from="1682088049117" duration="665000" />
+      <workItem from="1682318625788" duration="89000" />
+      <workItem from="1683293070508" duration="1343000" />
+      <workItem from="1683372117849" duration="7206000" />
+      <workItem from="1683441376819" duration="7518000" />
+      <workItem from="1684589823606" duration="179000" />
+      <workItem from="1686057924345" duration="3971000" />
+      <workItem from="1686140794662" duration="7944000" />
+      <workItem from="1686226816721" duration="7717000" />
+      <workItem from="1686291289551" duration="17350000" />
+      <workItem from="1686412176638" duration="1409000" />
+      <workItem from="1686463803214" duration="14201000" />
+      <workItem from="1686661827914" duration="1193000" />
+      <workItem from="1686746943972" duration="4798000" />
+      <workItem from="1686840714122" duration="1596000" />
+      <workItem from="1687002358780" duration="614000" />
+      <workItem from="1687079236348" duration="6088000" />
+      <workItem from="1687157069278" duration="5538000" />
+      <workItem from="1687163178825" duration="497000" />
+      <workItem from="1687529821895" duration="127000" />
+      <workItem from="1688199733293" duration="9122000" />
+      <workItem from="1688279041861" duration="9303000" />
+      <workItem from="1688351937081" duration="3871000" />
+      <workItem from="1688470115400" duration="1196000" />
+      <workItem from="1688525448864" duration="7314000" />
+      <workItem from="1688700958504" duration="3661000" />
+      <workItem from="1688723678562" duration="5156000" />
+      <workItem from="1688728937866" duration="40000" />
+      <workItem from="1688729003483" duration="2665000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试信息1">
+      <created>1688725053364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688725053364</updated>
+    </task>
+    <task id="LOCAL-00002" summary="测试信息2">
+      <created>1688725467592</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688725467592</updated>
+    </task>
+    <task id="LOCAL-00003" summary="外卖项目——初始版">
+      <created>1688726639827</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688726639827</updated>
+    </task>
+    <task id="LOCAL-00004" summary="外卖项目——初始版">
+      <created>1688727142143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688727142143</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Test 1">
+      <created>1688728453968</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688728453968</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test 1">
+      <created>1688728672732</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688728672732</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test 1">
+      <created>1688731819217</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688731819217</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="测试信息1" />
+    <MESSAGE value="测试信息2" />
+    <MESSAGE value="外卖项目——初始版" />
+    <MESSAGE value="Test 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
