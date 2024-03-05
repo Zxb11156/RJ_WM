@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4933422a-3906-4a24-ba31-315906d9352a" name="变更" comment="Test 1">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Zxb/Config/MpConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Zxb/Config/MpConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/backend/page/food/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/backend/page/food/list.html" afterDir="false" />
-    </list>
+    <list default="true" id="4933422a-3906-4a24-ba31-315906d9352a" name="变更" comment="Test 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +81,7 @@
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "vcs.Git",
     "spring.configuration.checksum": "c32ecba8f878605d0af7f3b4a7c7caab",
     "vue.rearranger.settings.migration": "true"
   },
@@ -276,7 +269,7 @@
       <workItem from="1709528548604" duration="479000" />
       <workItem from="1709529556718" duration="1282000" />
       <workItem from="1709559537292" duration="31000" />
-      <workItem from="1709622017750" duration="1491000" />
+      <workItem from="1709622017750" duration="1795000" />
     </task>
     <task id="LOCAL-00001" summary="测试信息1">
       <created>1688725053364</created>
@@ -327,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688731819217</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Test 1">
+      <created>1709623531658</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709623531658</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
