@@ -17,9 +17,6 @@ public class MpConfig {
         MybatisPlusInterceptor mpi = new MybatisPlusInterceptor();
         //分页拦截器
         mpi.addInnerInterceptor(new PaginationInnerInterceptor());
-
-
-
         return mpi;
     }
 
